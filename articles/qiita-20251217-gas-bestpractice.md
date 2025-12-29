@@ -2,7 +2,7 @@
 title: "GASのベストプラクティスを調べてみた"
 emoji: "💡"
 type: "tech"
-topics: [GoogleAppsScript,gas,備忘録,ベストプラクティス]
+topics: [GoogleAppsScript,gas,ベストプラクティス]
 published: true
 ---
 ## はじめに
